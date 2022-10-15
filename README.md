@@ -1,6 +1,10 @@
 # Fael Caporali
 
+![Element: img](/image10.png "Fael Caporali"){ style="float:right;", width="20%" }
+
 ## About me
+
+👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp;
 
  ---
 
@@ -11,7 +15,7 @@
 
  ---
 
->## Tech Stack
+>## Tech Stacks
 >
 >> ### O.S. & Languages
 >>
@@ -41,7 +45,7 @@
 >>
 >>![Chai](https://img.shields.io/badge/chai-A30701?style=flat&logo=chai&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=Mocha&logoColor=white)
 >>
-> -
+>
 
 [![Fael's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaelCaporali&count_private=true&show_icons=true&theme=gotham)](https://github.com/FaelCaporali/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaelCaporali&layout=compact&theme=gotham)](https://github.com/FaelCaporali)
 
