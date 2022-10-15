@@ -1,7 +1,5 @@
 # Fael Caporali
 
-![Element: img](/image10.png "Fael Caporali"){ style="float:right;", width="20%" }
-
 ## About me
 
  ---
