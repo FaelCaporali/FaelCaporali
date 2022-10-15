@@ -4,8 +4,7 @@
 
 👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp;
 
-![Element: img](/familia-de-careta.jpeg "Fael Caporali"){ style="float:right;", width="20%" }
-<img src="/familia-de-careta.jpeg" width="20%" />
+<img src="/familia-de-careta.jpeg" width="20%" style="float:right;border-radius:10px" />
 
  ---
 
