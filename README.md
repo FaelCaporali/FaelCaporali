@@ -2,7 +2,7 @@
 
 ## About me
 
-<img src="/familia-de-careta.jpeg" width="20%" style="{float:right;}" />
+<img src="/familia-de-careta.jpeg" width="20%" style="float:right;" />
 
 👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp;
 
