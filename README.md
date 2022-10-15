@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: 'space-around';">
+<div style="display:'flex';align-items:'space-around';">
 # Fael Caporali <img src="/familia-de-careta.jpeg" width="20%" style="float:'right';" />
 </div>
 
