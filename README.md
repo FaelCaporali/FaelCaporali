@@ -1,10 +1,8 @@
-# Fael Caporali &nbsp; &nbsp; &nbsp; &nbsp; <img src="/familia-de-careta.jpeg" width="20%" style="float:'right';" />
+# Fael Caporali
 
 ## About me
 
-👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp;
-
- ---
+👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <img src="/familia-de-careta.jpeg" width="20%" style="float:'right';" />
 
 - 🤔 Unsatiable curiosity led me to Web-Development. &nbsp;
 - 🎓 Studying FullStack development at **Trybe**. &nbsp;
