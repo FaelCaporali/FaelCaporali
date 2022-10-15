@@ -1,13 +1,19 @@
 # Fael Caporali
-
-| ## About me | <img src="/familia-de-careta.jpeg" width="20%" style="float:'right';" />
-| --- |
-|👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp; |
-| - 🤔 Unsatiable curiosity led me to Web-Development. &nbsp; |
-| - 🎓 Studying FullStack development at **Trybe**. &nbsp; |
-| - 💼 Searching for my first opportunity in my new career. &nbsp; |
-| - 🌱 Parallel to Trybe studies, looking up into Laravel, software design patterns, system security and projects life cycles. &nbsp; |
-
+<div>
+  <div>
+    | ## About me |
+    | --- |
+    |👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp; |
+    | - 🤔 Unsatiable curiosity led me to Web-Development. &nbsp; |
+    | - 🎓 Studying FullStack development at **Trybe**. &nbsp; |
+    | - 💼 Searching for my first opportunity in my new career. &nbsp; |
+    | - 🌱 Parallel to Trybe studies, looking up into Laravel, software design patterns, system security and projects life cycles. &nbsp; |
+  </div>
+  <div>
+    <img src="/familia-de-careta.jpeg" width="20%" style="float:'right';" />
+  </div>
+ </div>
+ 
 >## Tech Stacks
 >
 >> ### O.S. & Languages
