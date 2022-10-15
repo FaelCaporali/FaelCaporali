@@ -9,8 +9,6 @@
 - 💼 Searching for my first opportunity in my new career. &nbsp;
 - 🌱 Parallel to Trybe studies, looking up into Laravel, software design patterns, system security and projects life cycles. &nbsp;
 
- ---
-
 >## Tech Stacks
 >
 >> ### O.S. & Languages
