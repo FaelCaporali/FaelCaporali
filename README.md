@@ -1,4 +1,4 @@
-# Fael Caporali <img src="/familia-de-careta.jpeg" width="20%" style="float:'right';" />
+# Fael Caporali  --- <img src="/familia-de-careta.jpeg" width="20%" style="float:'right';" />
 
 ## About me
 
