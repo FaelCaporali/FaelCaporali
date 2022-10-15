@@ -4,7 +4,7 @@
 
 👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp;
 
-![Element: img](familia-de-careta.jpeg){style="float:right;"}
+![Element: img](familia-de-careta.jpeg){ style="float:right;", width="30%" }
 
  ---
 
