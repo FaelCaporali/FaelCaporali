@@ -1,8 +1,8 @@
 # Fael Caporali
 
-| ## About me |
-| --- |
+## About me
 | 👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp; |
+| --- |
 | - 🤔 Unsatiable curiosity led me to Web-Development. &nbsp; |
 | - 🎓 Studying FullStack development at **Trybe**. &nbsp; |
 | - 💼 Searching for my first opportunity in my new career. &nbsp; |
