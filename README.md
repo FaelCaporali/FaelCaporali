@@ -2,7 +2,7 @@
 
 ## About me
 
-<img src="/familia-de-careta.png" alt="Fael's family" align="right" width="20%" border-radius="10px" />
+<img src="/familia-de-careta.png" alt="Fael's family" align="right" width="20%" border-radius="10px" /> &nbsp;
 
 | 👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp; |
 | --- |
