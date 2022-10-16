@@ -2,14 +2,12 @@
 
 ## About me
 
-<img src="/familia-de-careta.png" alt="Fael's family" style="float:right;" width="20%" />
-
 | 👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp; |
 | --- |
 | - 🤔 Unsatiable curiosity led me to Web-Development. &nbsp; |
 | - 🎓 Studying FullStack development at **Trybe**. &nbsp; |
 | - 💼 Searching for my first opportunity in my new career. &nbsp; |
-| - 🌱 Parallel to Trybe studies, looking up into Laravel, software design patterns, system security and projects life cycles. &nbsp; |
+| - 🌱 Parallel to Trybe studies, looking up into Laravel, software design patterns, system security and projects life cycles. &nbsp; |  <img src="/familia-de-careta.png" alt="Fael's family" style="float:right;" width="20%" />
  
 >## Tech Stacks
 >
