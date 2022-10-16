@@ -8,7 +8,7 @@
 | - 💼 Searching for my first opportunity in my new career. &nbsp; |
 | - 🌱 Parallel to Trybe studies, looking up into Laravel, software design patterns, system security and projects life cycles. &nbsp; |
 
-![Element: img](/familia-de-careta.png "Fael Caporali"){ style="float:right;", width="20%" }
+[Element: img](/familia-de-careta.png "Fael Caporali"){ style="float:right;", width="20%" }
  
 >## Tech Stacks
 >
