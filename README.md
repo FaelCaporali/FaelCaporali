@@ -9,7 +9,8 @@
 | - 🌱 Parallel to Trybe studies, looking up into Laravel, software design patterns, system security and projects life cycles. &nbsp; |
 
 <img src="/familia-de-careta.png" alt="Fael's family" style="float:right;" width="20%" />
-![Element: img](/familia-de-careta.png "Fael's Family") { width="10%" }
+
+![Element: img](/familia-de-careta.png "Fael's Family"){ width="10%" }
  
 >## Tech Stacks
 >
