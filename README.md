@@ -3,7 +3,7 @@
 ## About me
 
 >
-> | 👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp; |   <img src="/familia-de-careta.png" alt="Fael's family" style="float:right;" width="20%" />
+> | 👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp; |  &nbsp; <img src="/familia-de-careta.png" alt="Fael's family" style="float:right;" width="20%" />
 > | --- |
 > | - 🤔 Unsatiable curiosity led me to Web-Development. &nbsp; |
 > | - 🎓 Studying FullStack development at **Trybe**. &nbsp; |
