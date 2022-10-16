@@ -1,4 +1,4 @@
-# Fael Caporali                                          <img src="/familia-de-careta.png" alt="Fael's family" style="float:right;" width="20%" />
+# Fael Caporali &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/familia-de-careta.png" alt="Fael's family" style="float:right;" width="20%" />
 
 ## About me
 | 👪🤴👸🐈🤖 &nbsp; 🧔🧑‍🎓👨‍🏫👨‍🍳👨‍🎨👨‍💻 &nbsp; ⚓⛵👽🖖💻🏄‍♂️🚣🛹🤸🍀🎵 &nbsp; 🇧🇷🇮🇹 &nbsp; |
