@@ -41,7 +41,7 @@
 >>
 >
 
-[![Fael's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FaelCaporali&count_private=true&show_icons=true&theme=gotham)](https://github.com/FaelCaporali/) [![Top Langs]([https://github-readme-stats-git-masterstaa-rickstaa.vercel.app/api/](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FaelCaporali&layout=compact&theme=gotham)](https://github.com/FaelCaporali)
+[![Fael's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FaelCaporali&count_private=true&show_icons=true&theme=gotham)](https://github.com/FaelCaporali/) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FaelCaporali&layout=compact&theme=gotham)](https://github.com/FaelCaporali)
 
 ## 🤝🏻 Connect with Me
 
